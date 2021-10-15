@@ -11,10 +11,10 @@ const defaultMenu = {
 │
 ├ Tersisa *%limit Limit*
 ├ Role *%role*
-├ Level *%level (%exp / %maxexp)* [%xp4levelup]
+├ Level *%level (%exp / %maxexp)* 
 ├ %totalexp XP secara Total
 │ 
-├ Tanggal: *%week %weton, %date*
+├ Tanggal: *%week, %date*
 ├ Tanggal Islam: *%dateIslamic*
 ├ Waktu: *%time*
 │
